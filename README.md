@@ -1,6 +1,6 @@
 ## Udacity Data Steaming NanoDegree Project 1: Optimizing Public Transit
 
-## Project rubric can be found here: https://review.udacity.com/#!/rubrics/2660/view
+#### Project rubric can be found here: https://review.udacity.com/#!/rubrics/2660/view
 
 ## Purpose
 
